@@ -177,3 +177,5 @@ Frontend:
 - React
 - TypeScript
 - Node.js
+
+---
